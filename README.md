@@ -7,5 +7,8 @@
 
 [Fourier en Senales no Tipicas](https://nbviewer.jupyter.org/github/jahirmedinacs/visual_dados_02/blob/master/Diabetes-Data/Diabetes%20Visualization.ipynb)
 
+[Logartmic](https://nbviewer.jupyter.org/github/jahirmedinacs/__temp_TeleproExpo/blob/master/Momentum1.ipynb)
+[Momentum](https://nbviewer.jupyter.org/github/jahirmedinacs/__temp_TeleproExpo/blob/master/Log_Momentum.ipynb)
+
 [CoinMarketCap 1](https://coinmarketcap.com/charts/)
 [CoinMarketCap 2](https://coinmarketcap.com/currencies/bitcoin/)
