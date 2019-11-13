@@ -5,4 +5,7 @@
 
 [Twente Web Radio](http://websdr.ewi.utwente.nl:8901/)
 
-[Fourier en Se\~nales no Tipicas](https://nbviewer.jupyter.org/github/jahirmedinacs/visual_dados_02/blob/master/Diabetes-Data/Diabetes%20Visualization.ipynb)
+[Fourier en Senales no Tipicas](https://nbviewer.jupyter.org/github/jahirmedinacs/visual_dados_02/blob/master/Diabetes-Data/Diabetes%20Visualization.ipynb)
+
+[CoinMarketCap 1](https://coinmarketcap.com/charts/)
+[CoinMarketCap 2](https://coinmarketcap.com/currencies/bitcoin/)
